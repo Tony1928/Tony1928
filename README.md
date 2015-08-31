@@ -11,6 +11,7 @@
 -------------------------------------------------------------------------------------------------------------------------<br>
 `port`<br>
 [erlport python document](http://erlport.org/docs/python.html)<br>
+[lfe python](http://blog.lfe.io/announcements/2014/12/27/1641-easy-python-from-lfeerlang/)<br>
 <hr>
 <pre>
 <code>
