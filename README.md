@@ -2,9 +2,10 @@
 9/19 presentation
 10/3 presentation
 `
-
+<hr>
 [Off-the-Shelf Widgets](https://support.exosite.com/hc/en-us/articles/200524020-Off-the-Shelf-Widgets)<br>
-
+[pyonep python api](https://github.com/exosite-labs/pyonep)<br>
+<hr>
 <pre>
 <code>
 about 30 min -60 min/
