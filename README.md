@@ -1,7 +1,8 @@
-`# taichung.py9
-9/19 presentation
+# taichung.py9
+~~9/19 presentation~~
+~~9/26 presentation~~
 10/3 presentation
-`
+
 <hr>
 `api` <br>
 [exoline](https://github.com/exosite/exoline)<br>
