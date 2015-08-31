@@ -1,10 +1,12 @@
 `# taichung.py9
-9/19 presentation`
+9/19 presentation
+10/3 presentation
+`
 
 <pre>
 <code>
-about 30 min
-topic: (TBE)
+about 30 min -60 min/
+topic: cloud framework python api
 </code>
 content outline as below:
 1)demo UAE gps simulation and cpu thermal
