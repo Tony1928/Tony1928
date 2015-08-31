@@ -3,6 +3,8 @@
 10/3 presentation
 `
 
+[Off-the-Shelf Widgets](https://support.exosite.com/hc/en-us/articles/200524020-Off-the-Shelf-Widgets)<br>
+
 <pre>
 <code>
 about 30 min -60 min/
