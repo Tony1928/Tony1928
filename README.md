@@ -15,6 +15,7 @@
 [lfe-blog-part-i](http://blog.lfe.io/tutorials/2014/12/03/1828-erlport-and-python-making-more-calls-from-lfe/)<br>
 [lfe-blog-part-ii](http://blog.lfe.io/tutorials/2014/11/21/1508-erlport-using-python-from-erlang-lfe/)<br>
 [lfe github](https://github.com/lfex/py)<br>
+[lsci erlang python sci](https://github.com/lfex/lsci)<br>
 <hr>
 <pre>
 <code>
